@@ -1,6 +1,9 @@
 # 📈 Gold Price Forecasting using Time Series Analysis
 This project aims to model and forecast gold prices using time series analysis techniques, including decomposition, stationarity tests, model fitting, residual analysis, and forecasting.
 
+## Dataset
+The dataset includes historical gold prices with daily granularity. Preprocessing was applied to clean and prepare the data for time series modeling.
+
 ## Project Structure
 The project includes the following stages:
 1. **Data Preprocessing:** 
@@ -18,7 +21,5 @@ The project includes the following stages:
 - Forecast accuracy on validation data
 5. **Forecasting:**
 - Final prediction of future gold prices using validated models
-## Dataset
-The dataset includes historical gold prices with daily granularity. Preprocessing was applied to clean and prepare the data for time series modeling.
 
-![visualization](images/time series.png)"# Gold-Price-Prediction" 
+
